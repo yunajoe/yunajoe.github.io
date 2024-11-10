@@ -114,7 +114,8 @@ analytics:
 author:
   name: "조연아"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Life is short. Love what you do and people around you"
+  bio: "Life is short.
+  Love what you do and people around you"
   location: "South Korea"
   email:
   links:

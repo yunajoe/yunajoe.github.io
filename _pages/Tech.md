@@ -4,4 +4,14 @@ title: "Tech"
 toc: true
 toc_sticky: true
 toc_label: "Tech"
+categories:
+  - WEB
+  - Fronted
+  - Backend
+  - QA/Testing
+# tags:
+#   - WEB
+#   - Fronted
+#   - Backend
+#   - QA/Testing
 ---
