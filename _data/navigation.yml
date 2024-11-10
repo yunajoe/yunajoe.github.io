@@ -1,11 +1,5 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Introduce"
-  # url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Introduce"
-  #   url: "/Introduce/"
   - title: "Projects"
     url: /Projects/
   - title: "Tech"
