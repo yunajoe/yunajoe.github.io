@@ -10,9 +10,4 @@ categories:
   - Fronted
   - Backend
   - QA/Testing
-# tags:
-#   - WEB
-#   - Fronted
-#   - Backend
-#   - QA/Testing
 ---
