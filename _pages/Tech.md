@@ -1,7 +1,9 @@
 ---
 title: "Tech"
-permalink: /Tech/
-author_profile: false
+permalink: /tech/
+# archive
+layout: single
+author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "Tech"
@@ -11,3 +13,5 @@ categories:
   - Backend
   - QA/Testing
 ---
+
+[프론트엔드](http://127.0.0.1:4000/tech/fronted)

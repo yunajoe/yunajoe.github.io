@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
   - title: "Tech"
-    url: /Tech/
+    url: /tech/
   - title: "CS"
-    url: /CS/
+    url: /cs/
   - title: "Algorithms"
-    url: /Algorithms/
+    url: /algorithms/
