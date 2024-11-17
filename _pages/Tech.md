@@ -14,4 +14,4 @@ categories:
   - QA/Testing
 ---
 
-[프론트엔드](http://127.0.0.1:4000/tech/fronted)
+[프론트엔드](https://yunajoe.github.io/tech/fronted)
