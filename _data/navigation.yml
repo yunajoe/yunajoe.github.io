@@ -8,3 +8,5 @@ main:
     url: /cs/
   - title: "Algorithms"
     url: /algorithms/
+  - title: "Issue & Fix"
+    url: /issue/

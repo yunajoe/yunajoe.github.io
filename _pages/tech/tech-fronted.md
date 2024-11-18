@@ -8,5 +8,5 @@ toc: true
 toc_sticky: true
 ---
 
-[tailwind-merge](https://yunajoe.github.io/tech/fronted/1) <br>
+[tailwind-merge](/tech/fronted/1) <br>
 [controlled component & uncontrolled component](/tech/fronted/2)

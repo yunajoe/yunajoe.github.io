@@ -1,5 +1,5 @@
 ---
-permalink: /Algorithms/
+permalink: /algorithms/
 title: "Algorithms"
 toc: true
 toc_sticky: true

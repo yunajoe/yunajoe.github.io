@@ -1,5 +1,5 @@
 ---
-permalink: /CS/
+permalink: /cs/
 title: "CS"
 toc: true
 toc_sticky: true
